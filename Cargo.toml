@@ -1,0 +1,7 @@
+[package]
+name = "madvise"
+version = "0.1.0"
+authors = ["Vurich <jackefransham@hotmail.co.uk>"]
+
+[dependencies]
+libc = "0.2.29"
