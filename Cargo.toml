@@ -2,6 +2,8 @@
 name = "madvise"
 version = "0.1.0"
 authors = ["Vurich <jackefransham@hotmail.co.uk>"]
+description = "Rustic safe wrapper around unix madvise"
+license = "MIT"
 
 [dependencies]
 libc = "0.2.29"
